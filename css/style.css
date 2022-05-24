@@ -236,7 +236,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Raleway', 'Open Sans', Arial, sans-serif;
+    /* font-family: 'Raleway', 'Open Sans', Arial, sans-serif; */
     font-weight: 800;
     margin-bottom: 25px;
     margin-top: 0;
@@ -1610,7 +1610,7 @@ blockquote{
     text-transform: uppercase;
 }
 
-.custom-heading::after{
+/* .custom-heading::after{
     position: absolute;
     display: block;
     content: "";
@@ -1618,13 +1618,13 @@ blockquote{
     height: 3px;
     left: 0;
     top: 0;
-}
+} */
 
 .custom-heading.centered{
     text-align: center;
 }
 
-.custom-heading.centered:after{
+/* .custom-heading.centered:after{
     position: absolute;
     display: block;
     content: "";
@@ -1633,7 +1633,7 @@ blockquote{
     left: 50%;
     margin-left: -20px;
     top: 0;
-}
+} */
 
 /*
     7.9. CUSTOM HEADING02 - CENTERED WITH SUBTITLE
@@ -1668,7 +1668,7 @@ blockquote{
     text-align: center;
 }
 
-.custom-heading02:after{
+/* .custom-heading02:after{
     position: absolute;
     display: block;
     content: "";
@@ -1677,7 +1677,7 @@ blockquote{
     bottom: 0;
     left: 50%;
     margin-left: -20px;
-}
+} */
 
 .custom-heading02.simple h1,
 .custom-heading02.simple h2,
